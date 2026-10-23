@@ -1,0 +1,4 @@
+run,control_frames,loop_overruns,completion,duration_s,yolo_results,inference_p50_ms,inference_p90_ms,inference_p95_ms,inference_max_ms
+74b3bf1_20260826_0004,409,313,signal,54.753,68,373.0,439.7,459.1,540.5
+e37cdca_20260826_0028,414,326,signal,58.774,69,376.4,433.8,450.1,533.6
+fb45865_20260825_2306,155,153,exception,19.514,55,318.5,384.5,399.7,450.7

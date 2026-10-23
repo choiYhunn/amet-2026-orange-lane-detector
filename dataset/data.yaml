@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['center']
+
+roboflow:
+  workspace: yhch
+  project: amet_track
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yhch/amet_track/dataset/1

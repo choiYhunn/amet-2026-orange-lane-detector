@@ -1,0 +1,18 @@
+{
+ "frames": 409,
+ "duration_s": 54.753,
+ "completion_reason": "signal",
+ "loop_overruns": 313,
+ "orange_yolo_enabled": true,
+ "orange_yolo_runtime": "onnxruntime-1.29.0",
+ "runtime_config": {
+  "orange_yolo_requested": true,
+  "orange_yolo_conf": 0.2,
+  "orange_yolo_every_n": 6,
+  "orange_yolo_ttl_s": 0.7,
+  "orange_yolo_near_ttl_s": 0.24,
+  "orange_yolo_role": "primary_far_geometry",
+  "orange_yolo_threads": 2
+ },
+ "source": "subset of the run archive summary.json (tracebacks and host paths omitted)"
+}
